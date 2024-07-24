@@ -1,0 +1,19 @@
+:root {
+  --background-white: #ffffff;
+  --background-black: #0a0b0b;
+  --background-black-disabled: #747474;
+  --background-brand-disabled: #d6d2f1;
+  --content-secondary: rgba(255, 255, 255, 0.7);
+  --background-brand-hovered: #8577e1;
+  --content-placeholder: rgba(0, 0, 0, 0.4);
+  --content-active: #b4a9ff;
+  --background-brand-active: #6a5dc2;
+  --content-black: #000000;
+  --background-secondary: #393b3c;
+  --background-disabled: rgba(255, 255, 255, 0.5);
+  --content-disabled: rgba(255, 255, 255, 0.5);
+  --content-primary: #ffffff;
+
+  --font-family: "Play", sans-serif;
+  --second-family: "Open Sans", sans-serif;
+}
